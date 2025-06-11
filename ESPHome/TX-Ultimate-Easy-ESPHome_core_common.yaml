@@ -108,8 +108,6 @@ logger:
 ota:
   platform: esphome
 
-psram:
-
 script:
   - id: api_send_ha_event_boot
     mode: queued
