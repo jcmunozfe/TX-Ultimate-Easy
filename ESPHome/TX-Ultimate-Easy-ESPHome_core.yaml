@@ -112,7 +112,7 @@ ota:
   platform: esphome
 
 psram:
-  mode: octal
+  mode: quad
   speed: 80MHz
 
 script:
